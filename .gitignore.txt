@@ -1,0 +1,4 @@
+/bin
+/v17
+/FileContentlndex
+/ProjectEvalution
