@@ -1,0 +1,36 @@
+﻿@model IEnumerable<AulaModeloEF.Data.Entidades.Aula>
+
+@{
+    ViewData["Title"] = "Completo";
+}
+
+<h1>Todas las Aulas</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CantidadAlumnos)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CantidadAlumnos)
+                </td>
+                
+            </tr>
+        }
+    </tbody>
+</table>

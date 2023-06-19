@@ -1,0 +1,14 @@
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\AulaModeloEF\AulaModeloEF.Data\bin\Debug\net6.0\AulaModeloEF.Data.deps.json
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\AulaModeloEF\AulaModeloEF.Data\bin\Debug\net6.0\AulaModeloEF.Data.runtimeconfig.json
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\AulaModeloEF\AulaModeloEF.Data\bin\Debug\net6.0\AulaModeloEF.Data.dll
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\AulaModeloEF\AulaModeloEF.Data\bin\Debug\net6.0\AulaModeloEF.Data.pdb
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\AulaModeloEF\AulaModeloEF.Data\obj\Debug\net6.0\AulaModeloEF.Data.csproj.AssemblyReference.cache
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\AulaModeloEF\AulaModeloEF.Data\obj\Debug\net6.0\AulaModeloEF.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\AulaModeloEF\AulaModeloEF.Data\obj\Debug\net6.0\AulaModeloEF.Data.AssemblyInfoInputs.cache
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\AulaModeloEF\AulaModeloEF.Data\obj\Debug\net6.0\AulaModeloEF.Data.AssemblyInfo.cs
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\AulaModeloEF\AulaModeloEF.Data\obj\Debug\net6.0\AulaModeloEF.Data.csproj.CoreCompileInputs.cache
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\AulaModeloEF\AulaModeloEF.Data\obj\Debug\net6.0\AulaModeloEF.Data.dll
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\AulaModeloEF\AulaModeloEF.Data\obj\Debug\net6.0\refint\AulaModeloEF.Data.dll
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\AulaModeloEF\AulaModeloEF.Data\obj\Debug\net6.0\AulaModeloEF.Data.pdb
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\AulaModeloEF\AulaModeloEF.Data\obj\Debug\net6.0\AulaModeloEF.Data.genruntimeconfig.cache
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\AulaModeloEF\AulaModeloEF.Data\obj\Debug\net6.0\ref\AulaModeloEF.Data.dll

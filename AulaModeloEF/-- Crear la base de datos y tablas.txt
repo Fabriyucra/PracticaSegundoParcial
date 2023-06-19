@@ -1,0 +1,23 @@
+-- Crear la base de datos
+CREATE DATABASE AulaModeloEF;
+GO
+
+-- Usar la base de datos
+USE AulaModeloEF;
+GO
+
+-- Crear tabla Cadena
+CREATE TABLE Aula (
+    Id INTEGER IDENTITY(1,1) PRIMARY KEY,
+    Nombre VARCHAR(20),
+	CantidadAlumnos INTEGER
+);
+
+--Scaffold-DbContext "Server=.;Database=AulaModeloEF;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entidades
+
+-- Insertar registros en la tabla Aula datos de prueba alguna de las aulas debe tener menos de 20 alumnos 
+INSERT INTO Aula (Nombre, CantidadAlumnos)
+VALUES ('Septimo A', 200),
+       ('Septimo B', 19),
+       ('Septimo C', 20),
+       ('sexto A', 100);
