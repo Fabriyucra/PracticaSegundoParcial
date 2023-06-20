@@ -34,6 +34,7 @@ namespace SistemaDeCadenasAlimenticias.Web.Controllers
 
             return View(sucursales);
         }
+
         public IActionResult Crear() {
             ViewBag.Cadenas = _context.Cadenas.OrderBy(c => c.RazonSocial).ToList(); // pasamos todos los datos de cadena de forma ordena por nombre
         return View( new Sucursal());
