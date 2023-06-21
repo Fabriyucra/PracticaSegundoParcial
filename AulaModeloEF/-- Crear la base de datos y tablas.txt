@@ -15,9 +15,4 @@ CREATE TABLE Aula (
 
 --Scaffold-DbContext "Server=.;Database=AulaModeloEF;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entidades
 
--- Insertar registros en la tabla Aula datos de prueba alguna de las aulas debe tener menos de 20 alumnos 
-INSERT INTO Aula (Nombre, CantidadAlumnos)
-VALUES ('Septimo A', 200),
-       ('Septimo B', 19),
-       ('Septimo C', 20),
-       ('sexto A', 100);
+ 

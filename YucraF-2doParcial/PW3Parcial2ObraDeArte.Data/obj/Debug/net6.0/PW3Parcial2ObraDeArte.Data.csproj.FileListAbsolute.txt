@@ -1,0 +1,14 @@
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Data\bin\Debug\net6.0\PW3Parcial2ObraDeArte.Data.deps.json
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Data\bin\Debug\net6.0\PW3Parcial2ObraDeArte.Data.runtimeconfig.json
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Data\bin\Debug\net6.0\PW3Parcial2ObraDeArte.Data.dll
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Data\bin\Debug\net6.0\PW3Parcial2ObraDeArte.Data.pdb
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Data\obj\Debug\net6.0\PW3Parcial2ObraDeArte.Data.csproj.AssemblyReference.cache
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Data\obj\Debug\net6.0\PW3Parcial2ObraDeArte.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Data\obj\Debug\net6.0\PW3Parcial2ObraDeArte.Data.AssemblyInfoInputs.cache
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Data\obj\Debug\net6.0\PW3Parcial2ObraDeArte.Data.AssemblyInfo.cs
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Data\obj\Debug\net6.0\PW3Parcial2ObraDeArte.Data.csproj.CoreCompileInputs.cache
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Data\obj\Debug\net6.0\PW3Parcial2ObraDeArte.Data.dll
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Data\obj\Debug\net6.0\refint\PW3Parcial2ObraDeArte.Data.dll
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Data\obj\Debug\net6.0\PW3Parcial2ObraDeArte.Data.pdb
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Data\obj\Debug\net6.0\PW3Parcial2ObraDeArte.Data.genruntimeconfig.cache
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Data\obj\Debug\net6.0\ref\PW3Parcial2ObraDeArte.Data.dll

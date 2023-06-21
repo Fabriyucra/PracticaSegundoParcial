@@ -1,0 +1,20 @@
+-- Crear la base de datos
+CREATE DATABASE ModeloEF;
+GO
+
+-- Usar la base de datos
+USE ModeloEF;
+GO
+
+CREATE TABLE ObraDeArte
+(
+    id INT IDENTITY(1,1) PRIMARY KEY,
+    nombre NVARCHAR(20),
+    AnioCreacion INT
+);
+
+INSERT INTO ObraDeArte (nombre, AnioCreacion)
+VALUES ('Mona Lisa', 1503 )
+
+--Scaffold-DbContext "Server=.;Database=ModeloEF;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entidades
+

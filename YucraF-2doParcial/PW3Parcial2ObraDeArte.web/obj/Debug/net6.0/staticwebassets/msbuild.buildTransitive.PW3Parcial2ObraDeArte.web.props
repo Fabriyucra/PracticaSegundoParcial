@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PW3Parcial2ObraDeArte.web.props" />
+</Project>

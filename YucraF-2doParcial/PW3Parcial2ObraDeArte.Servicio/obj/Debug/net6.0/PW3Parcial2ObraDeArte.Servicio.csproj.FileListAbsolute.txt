@@ -1,0 +1,17 @@
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Servicio\bin\Debug\net6.0\PW3Parcial2ObraDeArte.Servicio.deps.json
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Servicio\bin\Debug\net6.0\PW3Parcial2ObraDeArte.Servicio.runtimeconfig.json
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Servicio\bin\Debug\net6.0\PW3Parcial2ObraDeArte.Servicio.dll
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Servicio\bin\Debug\net6.0\PW3Parcial2ObraDeArte.Servicio.pdb
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Servicio\bin\Debug\net6.0\PW3Parcial2ObraDeArte.Data.dll
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Servicio\bin\Debug\net6.0\PW3Parcial2ObraDeArte.Data.pdb
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Servicio\obj\Debug\net6.0\PW3Parcial2ObraDeArte.Servicio.csproj.AssemblyReference.cache
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Servicio\obj\Debug\net6.0\PW3Parcial2ObraDeArte.Servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Servicio\obj\Debug\net6.0\PW3Parcial2ObraDeArte.Servicio.AssemblyInfoInputs.cache
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Servicio\obj\Debug\net6.0\PW3Parcial2ObraDeArte.Servicio.AssemblyInfo.cs
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Servicio\obj\Debug\net6.0\PW3Parcial2ObraDeArte.Servicio.csproj.CoreCompileInputs.cache
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Servicio\obj\Debug\net6.0\PW3Parcial2ObraDeArte.Servicio.csproj.CopyComplete
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Servicio\obj\Debug\net6.0\PW3Parcial2ObraDeArte.Servicio.dll
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Servicio\obj\Debug\net6.0\refint\PW3Parcial2ObraDeArte.Servicio.dll
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Servicio\obj\Debug\net6.0\PW3Parcial2ObraDeArte.Servicio.pdb
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Servicio\obj\Debug\net6.0\PW3Parcial2ObraDeArte.Servicio.genruntimeconfig.cache
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\YucraF-2doParcial\PW3Parcial2ObraDeArte.Servicio\obj\Debug\net6.0\ref\PW3Parcial2ObraDeArte.Servicio.dll
