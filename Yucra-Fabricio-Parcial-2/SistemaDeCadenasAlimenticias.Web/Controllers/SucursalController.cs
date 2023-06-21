@@ -21,16 +21,16 @@ namespace SistemaDeCadenasAlimenticias.Web.Controllers
             // Agregar la lista de cadenas a ViewBag para que esté disponible en la vista
             ViewBag.Cadenas = cadenas;
 
-            // Obtener la lista de sucursales filtradas según la cadena seleccionada
+            // Obtener la lista de sucursales
             List<Sucursal> sucursales = _isucursalServicio.SucursalGetAll();//llama al get del contexto
 
-            if (idCadena.HasValue)
+            if (idCadena.HasValue) //vemos si el valor q devuelve la View es null, si no lo es hacemos la parte del filtro (.HasValue solo para valores nulleables)
             {
                 // Filtrar por la cadena seleccionada si se proporciona un idCadena válido
                 sucursales = _isucursalServicio.SucursalesByIdCadena(idCadena.Value);
             }
 
-            return View(sucursales);
+            return View(sucursales);// sucursales sera devuelto o todas o la q tiene un filtro depende si es Null o no 
         }
 
         public IActionResult Crear()
@@ -41,8 +41,8 @@ namespace SistemaDeCadenasAlimenticias.Web.Controllers
         [HttpPost]
         public IActionResult Crear(Sucursal sucursal)
         {
-            if (ModelState.IsValid)
-            {// valida si existe model
+            if (ModelState.IsValid)// valida si lo que devolvio la View cumple con las necesidades del modelo que se quiere usar
+            {
 
                 _isucursalServicio.CrearSucursal(sucursal);// comitea los cambios y se resuelven todos los cambios en la base de datos 
                 return RedirectToAction("Index");

@@ -9,18 +9,19 @@
 <p>
     <a asp-action="Crear" class="btn btn-primary">Create New</a> @*asp-action="nombre de la view" es mejo y no hay problemas de direccionamiento*@
 </p>
-<form asp-controller="Sucursal" asp-action="Index">
-    <div class="form-group">
-        <label for="IdCadena">Cadenas:</label>
-        <select name="IdCadena" id="IdCadena" class="form-control">
+<form asp-controller="Sucursal" asp-action="Index"> @*enviamos la selection al controlador sucursal en el action "Index"*@
+    <div class="input-group">
+        <label for="IdCadena"></label>
+        <select name="IdCadena" id="IdCadena" class="custom-select">
             <option value="">Seleccione una Cadena</option>
             @foreach (Cadena cadena in ViewBag.Cadenas)
             {
                 <option value="@cadena.Id">@cadena.RazonSocial</option>
             }
         </select>
-
-        <input type="submit" value="Filtrar" class="btn btn-sm btn-dark" />
+        <div class="input-group-append">
+            <input type="submit" value="Filtrar" class="btn btn-sm btn-dark" />
+        </div>
     </div>
 </form>
 
