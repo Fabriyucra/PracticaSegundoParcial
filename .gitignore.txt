@@ -1,4 +1,5 @@
 /bin
+/obj
 /v17
 /FileContentlndex
 /ProjectEvalution
