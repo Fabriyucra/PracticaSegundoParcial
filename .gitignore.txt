@@ -1,4 +1,5 @@
-/bin
-/v17
-/FileContentlndex
-/ProjectEvalution
+**/bin/
+**/obj/
+**/v17/
+**/FileContentlndex/
+**/ProjectEvalution/
