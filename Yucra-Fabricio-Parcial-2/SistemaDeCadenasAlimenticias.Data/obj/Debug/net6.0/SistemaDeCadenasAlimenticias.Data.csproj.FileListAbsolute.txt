@@ -1,0 +1,14 @@
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\Yucra-Fabricio-Parcial-2\SistemaDeCadenasAlimenticias.Data\bin\Debug\net6.0\SistemaDeCadenasAlimenticias.Data.deps.json
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\Yucra-Fabricio-Parcial-2\SistemaDeCadenasAlimenticias.Data\bin\Debug\net6.0\SistemaDeCadenasAlimenticias.Data.runtimeconfig.json
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\Yucra-Fabricio-Parcial-2\SistemaDeCadenasAlimenticias.Data\bin\Debug\net6.0\SistemaDeCadenasAlimenticias.Data.dll
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\Yucra-Fabricio-Parcial-2\SistemaDeCadenasAlimenticias.Data\bin\Debug\net6.0\SistemaDeCadenasAlimenticias.Data.pdb
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\Yucra-Fabricio-Parcial-2\SistemaDeCadenasAlimenticias.Data\obj\Debug\net6.0\SistemaDeCadenasAlimenticias.Data.csproj.AssemblyReference.cache
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\Yucra-Fabricio-Parcial-2\SistemaDeCadenasAlimenticias.Data\obj\Debug\net6.0\SistemaDeCadenasAlimenticias.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\Yucra-Fabricio-Parcial-2\SistemaDeCadenasAlimenticias.Data\obj\Debug\net6.0\SistemaDeCadenasAlimenticias.Data.AssemblyInfoInputs.cache
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\Yucra-Fabricio-Parcial-2\SistemaDeCadenasAlimenticias.Data\obj\Debug\net6.0\SistemaDeCadenasAlimenticias.Data.AssemblyInfo.cs
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\Yucra-Fabricio-Parcial-2\SistemaDeCadenasAlimenticias.Data\obj\Debug\net6.0\SistemaDeCadenasAlimenticias.Data.csproj.CoreCompileInputs.cache
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\Yucra-Fabricio-Parcial-2\SistemaDeCadenasAlimenticias.Data\obj\Debug\net6.0\SistemaDeCadenasAlimenticias.Data.dll
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\Yucra-Fabricio-Parcial-2\SistemaDeCadenasAlimenticias.Data\obj\Debug\net6.0\refint\SistemaDeCadenasAlimenticias.Data.dll
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\Yucra-Fabricio-Parcial-2\SistemaDeCadenasAlimenticias.Data\obj\Debug\net6.0\SistemaDeCadenasAlimenticias.Data.pdb
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\Yucra-Fabricio-Parcial-2\SistemaDeCadenasAlimenticias.Data\obj\Debug\net6.0\SistemaDeCadenasAlimenticias.Data.genruntimeconfig.cache
+C:\Users\pcfab\Documents\0 - Facultad\3-ProgramacionWeb3\PracticaSegundoParcial\Yucra-Fabricio-Parcial-2\SistemaDeCadenasAlimenticias.Data\obj\Debug\net6.0\ref\SistemaDeCadenasAlimenticias.Data.dll
