@@ -8,10 +8,9 @@ using System.Threading.Tasks;
 namespace SistemaDeCadenasAlimenticias.Servicio
 {
     public interface ISucursalServicio {
-        List<Sucursal> SucursalGetAll();
-        List<Cadena> CadenaGetAll();
-        List<Sucursal> SucursalesByIdCadena(int idCadena);
-        void CrearSucursal(Sucursal sucursal);
+        void Crear(Sucursal sucursal);
+        List<Sucursal> GetALLSucursales();
+        List<Sucursal> GetSucursalesByIdCadena(int idCadena);
 
     }
     public class SucursalServicio : ISucursalServicio
@@ -20,26 +19,21 @@ namespace SistemaDeCadenasAlimenticias.Servicio
         public SucursalServicio(PW3PracticaSegundoParcialContext context)
         {
             _context = context;
-        }
-
-        public List<Cadena> CadenaGetAll()
-        {
-            return _context.Cadenas.OrderBy(c => c.Id).ToList();
-        }       
-
-        public List<Sucursal> SucursalesByIdCadena(int idCadena)
-        {
-            return _context.Sucursals.Where(s=> s.IdCadena == idCadena).ToList();
-        }
-
-        public List<Sucursal> SucursalGetAll()
-        {
-            return _context.Sucursals.ToList();
-        }
-        public void CrearSucursal(Sucursal sucursal)
+        }     
+        public void Crear(Sucursal sucursal)
         {
             _context.Sucursals.Add(sucursal);
             _context.SaveChanges();
+        }
+
+        public List<Sucursal> GetALLSucursales()
+        {
+            return _context.Sucursals.ToList();
+        }
+
+        public List<Sucursal> GetSucursalesByIdCadena(int idCadena)
+        {
+            return _context.Sucursals.Where(s => s.IdCadena == idCadena).ToList();
         }
     }
 }

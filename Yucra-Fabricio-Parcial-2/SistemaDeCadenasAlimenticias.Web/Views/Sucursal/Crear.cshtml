@@ -12,7 +12,7 @@
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="Crear">
+        <form asp-action="Crear" method="post">
            
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
@@ -30,7 +30,7 @@
                 <label for="IdCadena">Cadena:</label>
                 <select name="IdCadena" id="IdCadena" class="form-group">
                     <option value="">Todas las Cadenas</option>
-                    @foreach (Cadena cadena in ViewBag.Cadenas)
+                    @foreach (Cadena cadena in ViewBag.Cadenas) @*Cadena castea al ViewBag al tipo de entidad*@
                     {
                         <option value="@cadena.Id">@cadena.RazonSocial</option>
                     }
