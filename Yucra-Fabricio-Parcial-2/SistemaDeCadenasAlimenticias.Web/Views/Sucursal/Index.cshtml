@@ -40,6 +40,11 @@
                 <td>@sucursal.Direccion</td>
                 <td>@sucursal.Ciudad</td>
                 <td>@sucursal.IdCadenaNavigation.RazonSocial</td> @*en Sucursal.cs nos crea el metodo para navegar entre tabals buscar que nombre le pone EF*@
+                <td>
+                <a asp-action="Edit" class="btn btn-sm btn-warning" asp-route-id="@sucursal.Id">Edit</a> |
+                @*<a asp-action="Details" class="btn btn-sm btn-info" asp-route-id="@item.Id">Details</a> |*@
+               <a asp-action="Delete" class="btn btn-sm btn-danger" asp-route-id="@sucursal.Id">Delete</a>
+                </td>
             </tr>
         }
     </tbody>

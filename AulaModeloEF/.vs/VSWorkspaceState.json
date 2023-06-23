@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AulaModeloEF.Data",
+    "\\AulaModeloEF.Data\\Entidades",
+    "\\AulaModeloEF.Web",
+    "\\AulaModeloEF.Web\\Views",
+    "\\AulaModeloEF.Web\\Views\\Aulas"
+  ],
+  "SelectedNode": "\\AulaModeloEF.Data\\Entidades\\Aula.cs",
+  "PreviewInSolutionExplorer": false
+}
