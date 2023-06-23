@@ -13,10 +13,10 @@ namespace SistemaDeCadenasAlimenticias.Servicio
         List<Sucursal> GetSucursalesByIdCadena(int idCadena);
 
     }
-    public class SucursalServicio : ISucursalServicio
+    public class SucursalesServicio : ISucursalServicio
     {
         private PW3PracticaSegundoParcialContext _context;
-        public SucursalServicio(PW3PracticaSegundoParcialContext context)
+        public SucursalesServicio(PW3PracticaSegundoParcialContext context)
         {
             _context = context;
         }     

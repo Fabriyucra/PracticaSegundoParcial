@@ -4,8 +4,9 @@
     "\\SistemaDeCadenasAlimenticias.Servicio",
     "\\SistemaDeCadenasAlimenticias.Web",
     "\\SistemaDeCadenasAlimenticias.Web\\Views",
-    "\\SistemaDeCadenasAlimenticias.Web\\Views\\Shared"
+    "\\SistemaDeCadenasAlimenticias.Web\\Views\\Shared",
+    "\\SistemaDeCadenasAlimenticias.Web\\Views\\Sucursal"
   ],
-  "SelectedNode": "\\SistemaDeCadenasAlimenticias.Servicio\\SucursalServicio.cs",
+  "SelectedNode": "\\SistemaDeCadenasAlimenticias.Web\\Views\\Sucursal\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

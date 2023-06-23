@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 //fundamentales para q funcione todo 
 builder.Services.AddScoped<PW3PracticaSegundoParcialContext>();//importante para la inyeccion de dependencias
-builder.Services.AddScoped<ISucursalServicio, SucursalServicio>();
+builder.Services.AddScoped<ISucursalServicio, SucursalesServicio>();
 builder.Services.AddScoped<ICadenasServicios, CadenasServicios>();
 var app = builder.Build();
 
