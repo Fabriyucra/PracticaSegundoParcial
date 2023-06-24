@@ -21,8 +21,8 @@ CREATE TABLE Sucursal (
 );
 
 -- Insertar registros en la tabla Cadena
-INSERT INTO Cadena (Id , Razon_social)
-VALUES (4, 'Coto'), (5, 'Dia'), (6, 'Jumbo'); --ids desfasados por pruebas (crear sin el campo ID es lo mas recomendable)
+INSERT INTO Cadena (Razon_social)
+VALUES ('Coto'), ('Dia'), ('Jumbo'); --(crear sin el campo ID es lo mas recomendable)
 
 --comando para crear las entidades por medio de la base en .netcore (DataBaseFirst) en mi caso es localhost acomodar "Server= ;" al que tengan en su maquina
 --Scaffold-DbContext "Server=.;Database=PW3PracticaSegundoParcial;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entidades
@@ -30,9 +30,9 @@ VALUES (4, 'Coto'), (5, 'Dia'), (6, 'Jumbo'); --ids desfasados por pruebas (crea
 
 -- Insertar registros en la tabla Sucursal datos de prueba que se hicieron desde el abm en funcionamiento(crear propios mas recomendable)
 INSERT INTO Sucursal (Direccion, Ciudad, IdCadena)
-VALUES ('Fray Luis Beltran 2269', 'Ituzaingó', 5),
-       ('Av. Estanislao Zeballos 3028', 'Moron', 5),
-       ('Almte. Guillermo Brown 1300', 'Moron', 4),
-       ('Blvd. Juan Manuel de Rosas 658', 'Moron', 6),
-       ('Av. Jose de San Martin 2971', 'Merlo', 5),
-       ('Av. Pres. Juan Domingo Perón 24098', 'San Antonio de Padua', 4);
+VALUES ('Fray Luis Beltran 2269', 'Ituzaingó', 2),
+       ('Av. Estanislao Zeballos 3028', 'Moron', 2),
+       ('Almte. Guillermo Brown 1300', 'Moron', 1),
+       ('Blvd. Juan Manuel de Rosas 658', 'Moron', 3),
+       ('Av. Jose de San Martin 2971', 'Merlo', 2),
+       ('Av. Pres. Juan Domingo Perón 24098', 'San Antonio de Padua', 1);
